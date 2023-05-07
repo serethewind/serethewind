@@ -1,16 +1,42 @@
-### Hi there 👋
 
-<!--
-**serethewind/serethewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Noah 
 
-Here are some ideas to get you started:
+Find me on Substack: [Shall we begin?](https://oneofakind.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile)
+and on LinkedIn: [Noah Uhunmwangho-Johnson](https://www.linkedin.com/in/osaserenoahjohnson)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 About Me
+
+I'm a 💻 Back end developer, currently interning with iAcademy as a Java backend developer, where I'm learning to build industry standing enterprise resource planning softwares. My goal is to build efficient and scalable solutions for problems encountered by business enterprises.
+
+## 🔧 Skills
+
+- ☕ Java
+- 🎨 Object-Oriented Programming (OOP)
+- 🌲 Git and Version Control
+- 🛠️ IntelliJ IDEA
+- 📊 SQL and Relational Databases
+- 🚀 Agile Software Development
+- 🔎 Problem-Solving and Debugging
+
+## 🚀 Projects
+
+- [Project Name](https://github.com/your-username/project-name) - Short project description.
+- [Project Name](https://github.com/your-username/project-name) - Short project description.
+- [Project Name](https://github.com/your-username/project-name) - Short project description.
+
+## 🎯 Learning Goals
+
+- 🌟 Build scalable and efficient Java applications.
+- 💡 Learn best practices for software development.
+- 🧑‍🤝‍🧑 Develop a deep understanding of object-oriented programming.
+- 🔍 Build strong problem-solving and debugging skills.
+- 🌐 Contribute to open-source projects.
+
+## 🎉 Hobbies
+
+- 📝 Writing on my substack (link above)
+- 📚 Reading techCabal and Stearsbusiness
+- 🎮 Playing fifa. I am up for a keenly contested tactical battle anytime😉
+- 🍳 I think I will like cooking at some point.
+
+Thanks for stopping by! I'm excited to connect with other developers and learn from their experiences. 😊
