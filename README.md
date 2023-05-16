@@ -6,7 +6,7 @@ and on LinkedIn: [Noah Uhunmwangho-Johnson](https://www.linkedin.com/in/osaseren
 
 ## 📝 About Me
 
-I'm a 💻 Back end developer, currently interning with iAcademy as a Java backend developer, where I'm learning to build industry standing enterprise resource planning softwares. My goal is to build efficient and scalable solutions for problems encountered by business enterprises.
+I'm a 💻 Back end developer, currently interning with iAcademy as a Java backend developer, where I'm learning to build industry standard enterprise resource planning softwares. My goal is to build efficient and scalable solutions for problems encountered by business enterprises.
 
 ## 🔧 Skills
 
