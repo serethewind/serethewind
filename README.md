@@ -20,9 +20,9 @@ I'm a 💻 Back end developer, currently interning with iAcademy as a Java backe
 
 ## 🚀 Projects
 
-- [Project Name](https://github.com/your-username/project-name) - Short project description.
-- [Project Name](https://github.com/your-username/project-name) - Short project description.
-- [Project Name](https://github.com/your-username/project-name) - Short project description.
+- [EazyTest MultiTenancy Online Assessment Solution ](https://github.com/serethewind/EazyTestMonolith) - Short project description.
+- [E-Healthcare Application](https://github.com/serethewind/neoclan2.0) - Short project description.
+- [Microservice-based Banking System](https://github.com/serethewind/e-healthcare) - Short project description.
 
 ## 🎯 Learning Goals
 
