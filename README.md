@@ -6,7 +6,7 @@ and on LinkedIn: [Noah Uhunmwangho-Johnson](https://www.linkedin.com/in/osaseren
 
 ## 📝 About Me
 
-I'm a 💻 Back end developer, currently with i-Academy (an offshoot of Africa Prudential) where I build industry-standard enterprise resource planning software. I aim to build efficient and scalable solutions for problems encountered by business enterprises. Java is my first love and Springboot is my framework of choice. I also love working with Python and the Django restframework.
+I'm a 💻 Back end developer . I love to imagine, I love to build great products too. I aim to build efficient and scalable solutions for problems encountered by business enterprises. Java is my first love and Springboot is my framework of choice. I also love working with C# and more recently Nest.js
 
 ## 🔧 Skills
 
